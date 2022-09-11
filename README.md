@@ -4,4 +4,4 @@
 To begin the project I installed Oracle virtual box using this
 <a href="https://www.virtualbox.org">link</a>
 For this project , I will downloaded the VirtualBox 6.1.38 (this is the latest version when I was completed this lab. feel free to latest version when completing your labv1.
-  ![Image](Images/v1.png)
+  ![](Images/v1.png)
